@@ -1,4 +1,4 @@
-### Hi, I'am Emir Burak ONDER 👋
+### Hi, I'm Emir Burak ONDER 👋
 
 **Software as a CRAFT!**
 <!-- I'm currently working on Pardus. -->
